@@ -1,0 +1,48 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.gaya {
+  display: flex;
+}
+
+body {
+  background-image: linear-gradient(to right, violet, blue);
+  color: white;
+}
+
+input {
+  margin: 5px;
+  width: 200px;
+}
+
+button {
+  margin: 10px;
+}
+
+.btn {
+  background-color: blueviolet;
+  color: white;
+}
+
+label {
+  font-size: 22px;
+}
+
+.bungkus {
+  border: 1px solid black;
+  border-radius: 10px;
+  background-color: antiquewhite;
+  margin: 10px;
+  width: 300px;
+  color: black;
+}
+
+.bungkus1 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
